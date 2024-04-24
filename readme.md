@@ -3,4 +3,5 @@
 
 <ul>
   <li> Dodanie wymagań funkcjonalnych</li>
+  <li>Wykonanie Tablicy Ganta</li>
 </ul>
